@@ -9,3 +9,5 @@
 - I should continue the project regardless of the funding, since producing AAV libraries in house would be relatively cheap. However, this would be time consuming. The only remaining large costs would be bulk and single cell sequencing costs. 
 
 - It would be better to present percentages of cell populations in FC graphs more clearly, and to make one graph which shows number of cells sorted for all four graphs. 
+
+- Look into mechanism of CTV.
