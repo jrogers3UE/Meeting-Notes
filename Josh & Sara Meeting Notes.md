@@ -11,3 +11,5 @@
 - It would be better to present percentages of cell populations in FC graphs more clearly, and to make one graph which shows number of cells sorted for all four graphs. 
 
 - Look into mechanism of CTV.
+
+- Eamon will complete all single cell analyses for now. 
