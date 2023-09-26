@@ -1,14 +1,72 @@
 # Josh & Sara Meeting Notes
 
-## Sep. 14th 2023 ()
+## Sep. 26th 2023 (Writing up, poster, arranging accommodation/flights)
+
+
+### Question/Comments
+- [ ] Does MLDE need to have ref? 
+- [ ] Biorender subscription?
+- [ ] Using rendered AAV struction, permission to use? https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3393551/figure/F4/ 
+- [ ] Can I use other people’s data (Deborah's AAV9 transduction)? If so can I ask them to send me images?
+- [ ] Does the author list and the abstract author list need to match?  
+- [ ] Is Sara still waiting for documents/tasks that I have forgotten about?
+- [ ] Can we send our PCLS to Histology department for sectioning? 
+- [ ] Ask Sara about putting her expectations of me in writing, to help me reflect. 
+- [ ] Do I need to wait for an agent from Diversity Travel to reach out to me to book flights? 
+
+
+
+
+## Sep. 19th 2023
+
+- [ ] Ask Mariana if vectors are proprietary (I don't think so)
+- [ ] Apply to Genetics Socieity 
+- [x] Make a list of all the reagents that I will need to send to Oxford (review list with Mariana)
+- [x] Find Oxford accommodation, confirm that it is available. Send to Sara. 
+- Sara will talk with Akira about starting the GGTA1 KO project. 
+- If we cannot KO GGTA1 before I leave, plan to produce CAV2 and a NT AAV. 
+- Consider how we can proceed if we cannot find Oxford accommodation.  
+- [ ] Show Sara GFP images which Craig gave me. 
+- [ ] I will need to make NT AAV (talk to Mariana about this)
+- [x] Plan to submit annual review on Friday
+- Emails should be more succint and accurate, especially when talking about my project. They may be looked back on to find information. 
+- Think of myself as part of a team rather than an independent researcher.
+- 
+
+### Questions/Comments
+
+- [x] Oxford accommodation (Rotary has not found anything)
+
+- Conference 
+	- [ ] Can go to conference. Book flights as soon as Mariana tells me the dates. 
+	- [x] Pay for accommodation
+	- [ ] Pay for molecular mingle ticket
+	- Aims should be decided by lab group before attending next conference  
+	- [ ] Make a rough draft of poster (use powerpoint) send rough draft to Sara. Follow the format of the 10 month report. Send to Sara, she will give feedback.  
+	- Conference suggests bringing lightweight poster as a lot of them spent there time on the floor last year.
+	- [ ] Print on canvas and bring command hook?  
+
+- I could not find CMV lenti.
+	- [x] Will look together when I am in the lab.  
+
+- [x] Wait for Mariana to respond or ask about MTA in another email? 
+		- Wait until there are costs for accommodation 		
+
+
+
+
+## Sep. 14th 2023
 
 - I need to communicate better. There have been incidents of perceived impoliteness. 
+
+- [ ] Organize lab notebook
 
 - [x] Update aims and objectives for AAV project, send to Maraiana. 
 
 - World Courier is preferred shipping company for lab. 
 
 - [ ] Who has the MTA for shipping AAV? Gerry? Who takes ownership? Can I bring it here? Is the AAV proprietary?
+	- Sara will enquire to Gerry what is in place. 
 
 - Will plan to have 10-month report turned in before leaving for Oxford, will have meeting when I am back. Preload presentation work. 
 
@@ -22,17 +80,16 @@
 
 - [x] ESGCT poster (sc dissociation and ML model)
 
-- [ ] Postpone internal virology seminary talk? 
+- [x] Postpone internal virology seminary talk? 
 
-- [ ] When should I reach out to the committee to officially schedule a meeting? 
-
-- [ ] When should I buy and ship reagents to Oxford? 
+- [x] When should I reach out to the committee to officially schedule a meeting?
+		- Will not be decided until report is submitted
 
 - [ ] Which CAV2 guide will I use, can I see the final data?
  		- Benchling has James report. 
 
-- [ ] We have a CMV GFP lenti. What should I use this for?
-		- WIll compare this to Gerrt's, it is -80, lentibox three)
+- [x] We have a CMV GFP lenti. What should I use this for?
+		- WIll compare this to Gerry's, it is -80, lentibox three)
 
 - [x] Respond to person asking about Annual Review. Do I upload the new version?
 
@@ -53,7 +110,7 @@
 
 - Plan to have 10-week report handed before I leave for Oxford and to schedule the meeting after I get back (just before Christmas holiday or after)
 
-- [ ] What is a potential title for my thesis?
+- [x] What is a potential title for my thesis?
 
 
 
@@ -62,7 +119,7 @@
 
 - Grant will not be submitted due to offical staff costings/time commitment to project on top of RA/PhD position, which is planned to be completed within an already rushed 36 month time period. Also, SMG is likely reluctant to process a late concept note. 
 
-- [ ] Will determine if project fits remit of Kenny's previously awarded or upcoming grants. Project could be funded this way. 
+- Will determine if project fits remit of Kenny's previously awarded or upcoming grants. Project could be funded this way. 
 
 - I should continue the project regardless of the funding, since producing AAV libraries in house would be relatively cheap. However, this would be time consuming. The only remaining large costs would be bulk and single cell sequencing costs. 
 
@@ -77,4 +134,4 @@
 
 - If I do the directed evolution experiment in pig lung, the top performing variants will be biased toward pig lung and not human lung. 
 
-- [ ] The question remains whether I will be able to get human lung for machine learning directed evolution (MLDE AAV experiment). End goal should be able to perform experiments in human lungs. 
+- Will I be able to get human lung for machine learning directed evolution (MLDE AAV experiment). End goal should be able to perform experiments in human lungs. 
