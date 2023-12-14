@@ -1,6 +1,22 @@
 # Josh & Sara Meeting Notes (1/2 Docs)
 
 
+## Dec. 14 2023
+
+### Action List
+
+	- [ ] Send updated Aims and Objectives list to Kenny and Sara so they can approve and send to Colin
+	- [ ] Read LeafCutter Paper
+	- [ ] In depth analysis of alternative splicing paper (Nakanishi et al.) to determine direction of effect of ATP11A isoforms and correlation with Castinero et al 2023 findings.
+
+### Notes
+
+	- Jumping into IHC experiment was another example of unmeasured approach to experimentation
+	- Send MD notes to those I am in a meeting with (Sara & Kenny)
+	- We will not use a lung cell line to optimize guide cutting efficiency. Because we already have a cell line which is easily tansfectable and expresses a Cas9 protein, we will use this. We will ignore differences in chromatin structure, transcription factors and cell state for now. Once a top candidate is found in this cell line, do not assess in other lung cell line and produce AAV for PCLS transductions.   
+
+
+
 ## Dec. 12th 2023 
 
 ### Action List
@@ -8,10 +24,10 @@
 	- [ ] Make a presentation about why I chose gene (ATP11A?). 
 		- [ ] Background on gene and function
 		- [ ] Why does it have a low MAIC ranking and are paralogs ranked as low? 
-		- [ ] How does it fit within context of convid and contribute to pathophysiology, factoring in the effect of the SNP on the gene.
+		- [ ] How does it fit within context of covid and contribute to pathophysiology, factoring in the effect of the SNP on the gene.
 		- [ ] How does it relate to other diseases? Is it implicated in other viral infections?   
 		- [ ] Look at genetic sequence in humans and pig and compare proteins. 
-	- [ ] Finish IHC and imaging. Do not start other experiments before break. 	
+	- [x] Finish IHC and imaging. Do not start other experiments before break. 	
 
 ### Questions
 
